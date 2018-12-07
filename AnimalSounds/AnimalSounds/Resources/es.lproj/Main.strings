@@ -1,0 +1,27 @@
+
+/* Class = "UITableViewController"; title = "Master"; ObjectID = "7bK-jq-Zjz"; */
+"7bK-jq-Zjz.title" = "Los animales";
+
+/* Class = "UIBarButtonItem"; title = "?"; ObjectID = "CcW-w2-WIN"; */
+"CcW-w2-WIN.title" = "?";
+
+/* Class = "UIViewController"; title = "Detail"; ObjectID = "JEX-9P-axG"; */
+"JEX-9P-axG.title" = "Detalles";
+
+/* Class = "UINavigationController"; title = "Master"; ObjectID = "RMx-3f-FxP"; */
+"RMx-3f-FxP.title" = "Los animales";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Xkx-5g-ctm"; */
+"Xkx-5g-ctm.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "Master"; ObjectID = "Zdf-7t-Un8"; */
+"Zdf-7t-Un8.title" = "Los animales";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "hRh-nx-VSG"; */
+"hRh-nx-VSG.normalTitle" = "Heco";
+
+/* Class = "UINavigationItem"; title = "Detail"; ObjectID = "mOI-FS-AaM"; */
+"mOI-FS-AaM.title" = "Detalles";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "uV3-Ur-WMY"; */
+"uV3-Ur-WMY.text" = "Nombre";

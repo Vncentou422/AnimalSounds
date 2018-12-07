@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  AnimalSounds
+
+  Created by Vincent Ou on 12/5/18.
+  Copyright © 2018 Vincent Ou. All rights reserved.
+*/
+
+"str_pic"          = "🐶";
+"str_title"        = "DOG";
+"CAT"           = "CAT";
+"DOG"           = "DOG";
+"WOLF"          = "WOLF";
+"str_delete"        = "Delete";
+"str_selectItemToMove" = "Are you sure you want to move this?";
+"str_warning"       = "Warning";
+"str_move"          = "Move";
+"str_deleteWarning" = "Are you sure you want to delete _?";
+"str_cancel"        = "Cancel";
+
